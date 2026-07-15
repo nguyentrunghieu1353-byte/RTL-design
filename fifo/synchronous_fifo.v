@@ -120,4 +120,4 @@ endmodule
 // r đóng vai trò là đọc con trỏ từ trái sang phải 
 // nếu có 1 ghi thì sẽ +1 cho count 
 // nếu có 1 đọc thì sẽ -1 cho count 
-// 
+// test update git
